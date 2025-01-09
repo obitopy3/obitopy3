@@ -1,14 +1,6 @@
-- 👋 Hi, I’m @obitopy3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-obitopy3/obitopy3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----
->my telegram > https://t.me/obitopy
-telegram channel > https://t.me/pythonic1
+<h1>javascript - python - C# - Java 
+C/C++ No project in it 😭 
+develop apis - tools - application - bots
+reverse engineer in android </h1>
+<h3>my telegram : https://t.me/assemblyexe</h3>
+<h3>discord server : https://discord.gg/Uc54gMDy</h3>
