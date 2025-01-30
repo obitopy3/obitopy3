@@ -1,4 +1,4 @@
-<h1>javascript - python - C# - Java 
+<h1>javascript - python - C#
 C/C++ No project in it 😭 
 develop apis - tools - application - bots
 reverse engineer in android </h1>
